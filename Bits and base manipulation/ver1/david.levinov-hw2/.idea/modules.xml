@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw2-data-types.iml" filepath="$PROJECT_DIR$/.idea/modules/hw2-data-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw2-data-types_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hw2-data-types_main.iml" group="hw2-data-types" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw2-data-types_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hw2-data-types_test.iml" group="hw2-data-types" />
+    </modules>
+  </component>
+</project>

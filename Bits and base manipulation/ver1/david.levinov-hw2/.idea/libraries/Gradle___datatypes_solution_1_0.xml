@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :datatypes-solution:1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/datatypes-solution-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
